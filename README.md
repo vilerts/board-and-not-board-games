@@ -41,11 +41,6 @@ https://skribbl.io/
 https://scattergoriesonline.net/
 - quick and fun word guess/writing game
 
-## Wheel of fortune <br/>
-https://ellytea.github.io/wheel-of-fortune/  
-https://jakelauer27.github.io/wheel-of-fortune/
-- not-so-quick and could-be-more-fun word guess game
-
 <br/>
 ---
 <br/>
