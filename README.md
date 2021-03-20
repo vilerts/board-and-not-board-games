@@ -23,9 +23,9 @@ https://www.spyfall.app/
 ## Terraforming mars <br/>
 https://terraforming-mars.herokuapp.com/ 
 
+<br/>
 ---
----
----
+<br/>
 
 # Cool online games
 ## Geo Guessr <br/>
@@ -39,16 +39,16 @@ https://skribbl.io/
 
 ## Scattergories <br/>
 https://scattergoriesonline.net/
-- word guess/writing game
+- quick and fun word guess/writing game
 
 ## Wheel of fortune <br/>
 https://ellytea.github.io/wheel-of-fortune/  
 https://jakelauer27.github.io/wheel-of-fortune/
-- word guess game
+- not-so-quick and could-be-more-fun word guess game
 
+<br/>
 ---
----
----
+<br/>
 
 # Multiple games in one site
 ## https://playingcards.io/
