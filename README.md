@@ -52,9 +52,9 @@ https://duowfriends.eu/
 https://www.geoguessr.com/
 - idea : team is given picture and have to figure (guess!) out location of that place as accurate as possible
 
-## Drawing
-### Scribbl - https://skribbl.io/
-### Rocektcrab - https://rocketcrab.com/
+## Draw and guess <br/>
+https://skribbl.io/  <br/>
+https://rocketcrab.com/
 
 ## Scattergories <br/>
 https://scattergoriesonline.net/
@@ -113,5 +113,6 @@ https://www.happymeeple.com/en/
 ---
 <br/>
 
-# Overview of many sites: https://www.flcc.edu/pdf/studentlife/OnlineBoardGames.pdf
+# Overview of many sites <br/>
+https://www.flcc.edu/pdf/studentlife/OnlineBoardGames.pdf
 
