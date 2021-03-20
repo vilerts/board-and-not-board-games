@@ -43,7 +43,7 @@ https://terraforming-mars.herokuapp.com/
 https://play.unofreak.com/
 https://duowfriends.eu/
 
-<br/>
+
 ---
 <br/>
 
@@ -71,8 +71,6 @@ https://scattergoriesonline.net/
 - few simple games
 
 ## https://papergames.io/
-
-
 
 ## The Board Game Arena <br/>
 https://boardgamearena.com/
@@ -109,7 +107,6 @@ https://www.happymeeple.com/en/
 - 10 board games
 - [have not yet tried]
 
-<br/>
 ---
 <br/>
 
