@@ -1,28 +1,32 @@
 # Board games:
-## Cards against humanity  
+## Cards against humanity <br/>
  https://allbad.cards/ 
 - [have not tried]
 
-## Catan  
+## Catan <br/>
 https://colonist.io/ 
 - good, free and paid tiers 
 - free: max 4 players, only base game, base map + map of the week 
 - paid features are very pricy and each feature is sold separately (for example 2players ~20 EURs)
 
-## Codenames  
+## Codenames <br/>
 https://horsepaste.com/
 - great implementation
 - need absolute trust, anyone can cheat :)
 
-## Dixit  
+## Dixit <br/>
 https://shmuxit.com/en
 - good, very polished fan-made version
 
-## Pandemic  
+## Mafia <br/>
+https://secrethitler.io/
+- [have not tried]
+
+## Pandemic <br/>
 https://epidemic.netlify.app/play
 - [have not tried]
 
-## Terraforming mars  
+## Terraforming mars <br/>
 https://terraforming-mars.herokuapp.com/ 
 - just perfect fan-made version with everything you need..
 
@@ -31,20 +35,20 @@ https://terraforming-mars.herokuapp.com/
 ---
 
 # Cool online games
-## Geo Guessr  
+## Geo Guessr <br/>
 https://www.geoguessr.com/
 - idea : team is given picture and have to figure (guess!) out location of that place as accurate as possible
 
-## Scribbl.io  
+## Scribbl.io <br/>
 https://skribbl.io/
 - quick and fun game
 - idea : one draws, everyone simultaneously  try to guess the word and get more points than others. is played in rounds, can import custom dictionary.
 
-## Scattergories  
+## Scattergories <br/>
 https://scattergoriesonline.net/
 - word guess/writing game
 
-## Wheel of fortune  
+## Wheel of fortune <br/>
 https://ellytea.github.io/wheel-of-fortune/  
 https://jakelauer27.github.io/wheel-of-fortune/
 - word guess game
