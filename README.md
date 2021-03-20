@@ -62,14 +62,6 @@ https://scattergoriesonline.net/
 <br/>
 
 # Multiple games in one site
-## https://playingcards.io/
-- implements many 2 player games, definately worth to try
-
-## https://mattle.online/
-- few simple games
-
-## https://papergames.io/
-
 ## The Board Game Arena <br/>
 https://boardgamearena.com/
 - 150+ board games
@@ -104,6 +96,17 @@ http://www.boiteajeux.net/
 https://www.happymeeple.com/en/
 - 10 board games
 - [have not yet tried]
+
+## Playing Cards <br/>
+https://playingcards.io/
+- implements many 2 player games, definately worth to try
+
+## Mapple <br/>
+https://mattle.online/
+- few simple games
+
+## Paper games <br/>
+https://papergames.io/
 
 <br/>
 <br/>
