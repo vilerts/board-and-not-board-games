@@ -1,34 +1,27 @@
 # Board games:
 ## Cards against humanity <br/>
  https://allbad.cards/ 
-- [have not tried]
 
 ## Catan <br/>
 https://colonist.io/ 
-- good, free and paid tiers 
-- free: max 4 players, only base game, base map + map of the week 
-- paid features are very pricy and each feature is sold separately (for example 2players ~20 EURs)
 
 ## Codenames <br/>
 https://horsepaste.com/
-- great implementation
-- need absolute trust, anyone can cheat :)
 
 ## Dixit <br/>
 https://shmuxit.com/en
-- good, very polished fan-made version
 
 ## Mafia <br/>
 https://secrethitler.io/
-- [have not tried]
 
 ## Pandemic <br/>
 https://epidemic.netlify.app/play
-- [have not tried]
+
+## Spyfall <br/>
+https://www.spyfall.app/
 
 ## Terraforming mars <br/>
 https://terraforming-mars.herokuapp.com/ 
-- just perfect fan-made version with everything you need..
 
 ---
 ---
