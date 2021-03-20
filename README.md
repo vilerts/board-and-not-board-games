@@ -53,3 +53,7 @@ https://scattergoriesonline.net/
 - web site with many official board game virtual versions.
 - free version allows to host only few games (but to join any)
 - have both live and turn-based versions.
+
+## https://www.yucata.de/
+- similar to boardgamearena.com, but seems more old-school
+- have not yet tried
