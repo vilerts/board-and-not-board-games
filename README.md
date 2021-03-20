@@ -26,6 +26,10 @@ https://epidemic.netlify.app/play
 https://terraforming-mars.herokuapp.com/ 
 - just perfect fan-made version with everything you need..
 
+---
+---
+---
+
 # Cool online games
 ## Geo Guessr
 https://www.geoguessr.com/
@@ -40,11 +44,14 @@ https://skribbl.io/
 https://scattergoriesonline.net/
 - word guess/writing game
 
-
 ## Wheel of fortune
 https://ellytea.github.io/wheel-of-fortune/
 https://jakelauer27.github.io/wheel-of-fortune/
 - word guess game
+
+---
+---
+---
 
 # Multiple games in one site
 ## https://playingcards.io/
