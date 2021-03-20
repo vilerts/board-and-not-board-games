@@ -1,29 +1,35 @@
-## [BG] Cards against humanity 
+# Board games:
+## Cards against humanity 
 https://allbad.cards/ 
 - [have not tried]
 
-## [BG] Catan 
+## Catan 
 https://colonist.io/ 
 - good, free and paid tiers 
 - free: max 4 players, only base game, base map + map of the week 
 - paid features are very pricy and each feature is sold separately (for example 2players ~20 EURs)
 
-## [BG] Codenames
+## Codenames
 https://horsepaste.com/
 - great implementation
 - need absolute trust, anyone can cheat :)
 
-## [BG] Dixit
+## Dixit
 https://shmuxit.com/en
 - good, very polished fan-made version
-
-## Geo Guessr
-https://www.geoguessr.com/
-- idea : team is given picture and have to figure (guess!) out location of that place as accurate as possible
 
 ## Pandemic
 https://epidemic.netlify.app/play
 - [have not tried]
+
+## Terraforming mars 
+https://terraforming-mars.herokuapp.com/ 
+- just perfect fan-made version with everything you need..
+
+# Cool online games
+## Geo Guessr
+https://www.geoguessr.com/
+- idea : team is given picture and have to figure (guess!) out location of that place as accurate as possible
 
 ## Scribbl.io
 https://skribbl.io/
@@ -34,17 +40,13 @@ https://skribbl.io/
 https://scattergoriesonline.net/
 - word guess/writing game
 
-## [BG] Terraforming mars 
-https://terraforming-mars.herokuapp.com/ 
-- just perfect fan-made version with everything you need..
 
 ## Wheel of fortune
 https://ellytea.github.io/wheel-of-fortune/
 https://jakelauer27.github.io/wheel-of-fortune/
 - word guess game
 
----
-
+# Multiple games in one site
 ## https://playingcards.io/
 - implements many 2 player games, definately worth to try
 
