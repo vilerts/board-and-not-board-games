@@ -44,7 +44,6 @@ https://play.unofreak.com/
 https://duowfriends.eu/
 
 <br/>
----
 <br/>
 
 # Cool online games
@@ -60,7 +59,6 @@ https://rocketcrab.com/
 https://scattergoriesonline.net/
 
 <br/>
----
 <br/>
 
 # Multiple games in one site
@@ -108,7 +106,6 @@ https://www.happymeeple.com/en/
 - [have not yet tried]
 
 <br/>
----
 <br/>
 
 # Overview of many sites <br/>
