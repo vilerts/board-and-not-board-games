@@ -25,13 +25,13 @@ https://dominion.games/
 https://roll20.net/
 
 ## Mafia / Werewolf <br/>
-https://www.blankmediagames.com/TownOfSalem/
-https://mafia.gg/
-https://werewolv.es/
+https://www.blankmediagames.com/TownOfSalem/ <br/>
+https://mafia.gg/ <br/>
+https://werewolv.es/ <br/>
 https://www.chickenkoup.com/
 
 # Monopoly <br/>
-https://playmdeal.com/
+https://playmdeal.com/ <br/>
 https://www.covidopoly.io/
 
 ## Risk <br/>
@@ -41,12 +41,12 @@ https://www.warzone.com/
 https://www.isc.ro/
 
 ## Secret Hitler </br>
-https://secrethitler.io/
+https://secrethitler.io/ <br/>
 https://secret.ethanl.ee/
 
 ## Spyfall <br/>
-https://www.spyfall.app/
-https://spyfall.adrianocola.com/
+https://www.spyfall.app/ <br/>
+https://spyfall.adrianocola.com/ <br/>
 https://spyfall.tannerkrewson.com/
 
 ## The Resistance and Avalon <br/>
