@@ -25,7 +25,7 @@ https://secrethitler.io/ </br>
 https://www.blankmediagames.com/TownOfSalem/
 
 ## Pandemic <br/>
-https://epidemic.netlify.app/play
+https://epidemic.netlify.app
 
 ## Risk <br/>
 https://www.warzone.com/
