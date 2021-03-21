@@ -1,4 +1,6 @@
 # Board games:
+## Brass <br/>
+http://brass.orderofthehammer.com/
 
 ## Cards against humanity <br/>
  https://allbad.cards/ 
@@ -10,7 +12,13 @@ https://colonist.io/
 ## Codenames <br/>
 https://codenames.game/ [official] <br/>
 https://horsepaste.com/ <br/>
-https://www.codenamesgreen.com/
+https://jhil.github.io/kodenames/ <br/>
+https://ninjabunny.github.io/KodeNames/ <br/>
+https://www.thecompletelysurrounded.com/games/code/ <br/>
+https://captnemo.in/codenames/ <br/>
+http://codenames.koosvary.com/ <br/>
+https://www.codenamesgreen.com/ [alternative] <br/>
+https://codenames.dport.me/ [with pictures] <br/>
 
 ## Deception: Murder in Hong Kong <br/>
 http://ninjabunny.github.io/mihk/
@@ -21,14 +29,11 @@ https://shmuxit.com/en
 ## Dominion <br/>
 https://dominion.games/
 
-## Dungeons and dragons <br/>
-https://roll20.net/
-
 ## Mafia / Werewolf <br/>
 https://www.blankmediagames.com/TownOfSalem/ <br/>
 https://mafia.gg/ <br/>
 https://werewolv.es/ <br/>
-https://www.chickenkoup.com/
+https://www.chickenkoup.com/ 
 
 # Monopoly <br/>
 https://playmdeal.com/ <br/>
@@ -52,7 +57,8 @@ https://spyfall.tannerkrewson.com/
 ## The Resistance and Avalon <br/>
 https://snakeout.tannerkrewson.com/ <br/>
 https://www.proavalon.com/ <br/>
-http://www.theresistanceplus.com/
+http://www.theresistanceplus.com/ <br/>
+https://avalon.fun/
 
 ## Terra Mistica <br/>
 https://terra.snellman.net/
@@ -150,11 +156,13 @@ https://netgames.io/games/
 - free, no registration
 - 7 games : Werewolf, Codewords, Secret Hitler, Spyfall, Love ltter, Avalon, Enigma.
 
-
 ## Fun Node <br/>
 https://www.funnode.com/
 - few classic board games
 - free
+
+## Super duper games <br/>
+http://superdupergames.org/
 
 <br/>
 <br/>
