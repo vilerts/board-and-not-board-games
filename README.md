@@ -96,15 +96,16 @@ https://www.outofcontext.party/
 # Board game platforms:
 ## The Board Game Arena <br/>
 https://boardgamearena.com/
-- 150+ board games
+- 300+ board games
 - web site with many official board game virtual versions.
-- free version allows to host only few games (but to join any)
+- free: can host Carcassone, Saboteur, 7 wonders. allows to join other premium games. all original artwork.
+- paid: 2-4 EUR/month, almost every popular board game that exist
+- cross-device play
 - have both live and turn-based versions.
 
 ## Yucata <br/>
 https://www.yucata.de/
-- 100+ board games
-- similar to boardgamearena.com
+- 120+ board games
 - completely free, no ads
 - [have not yet tried]
 
