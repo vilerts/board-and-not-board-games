@@ -96,8 +96,9 @@ https://scattergoriesonline.net/ <br/>
 http://www.keiranking.com/apps/gary/ <br/>
 https://www.outofcontext.party/
 
-## Nonograms (Japanese crosswords) <br/>
-https://nonograms-katana.com/
+## Nonograms (Japanese crosswords - SOLO only) <br/>
+https://nonograms-katana.com/ <br/>
+https://www.nonograms.org/ <br/>
 
 <br/>
 <br/>
