@@ -96,6 +96,9 @@ https://scattergoriesonline.net/ <br/>
 http://www.keiranking.com/apps/gary/ <br/>
 https://www.outofcontext.party/
 
+## Nanograms (Japanesse cross-words) <br/>
+https://nonograms-katana.com/
+
 <br/>
 <br/>
 
