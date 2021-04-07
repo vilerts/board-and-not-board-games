@@ -3,7 +3,7 @@
 http://brass.orderofthehammer.com/
 
 ## Cards against humanity <br/>
- https://allbad.cards/ 
+ https://allbad.cards/ <br/>
  https://cehs.live/ [Latvian version]
 
 ## Catan <br/>
