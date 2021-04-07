@@ -4,6 +4,7 @@ http://brass.orderofthehammer.com/
 
 ## Cards against humanity <br/>
  https://allbad.cards/ 
+ https://cehs.live/ [Latvian version]
 
 ## Catan <br/>
 https://catanuniverse.com/en/game/  <br/>
@@ -35,7 +36,7 @@ https://mafia.gg/ <br/>
 https://werewolv.es/ <br/>
 https://www.chickenkoup.com/ 
 
-# Monopoly <br/>
+## Monopoly <br/>
 https://playmdeal.com/ <br/>
 https://www.covidopoly.io/
 
