@@ -101,6 +101,12 @@ https://www.outofcontext.party/
 https://nonograms-katana.com/ <br/>
 https://www.nonograms.org/ <br/>
 
+# Trivia and quizes
+## Sporcle
+https://www.sporcle.com/ <br/>
+- Insane ammount of quizes about everything for free. <br/>
+
+
 <br/>
 <br/>
 
